@@ -1,0 +1,9 @@
+# Python's compiled files (made automatically when the game runs)
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+
+# Your saved high score
+best_score.txt
